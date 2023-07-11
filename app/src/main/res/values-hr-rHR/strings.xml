@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pass">Lozinka</string>
+    <string name="login">Prijavi se</string>
+    <string name="addBicycle">Dodaj bicikl</string>
+    <string name="owner">Vlasnik:</string>
+    <string name="brand">Marka:</string>
+    <string name="name">Naziv:</string>
+    <string name="category">Kategorija:</string>
+    <string name="repairsDetails">Podatci nisu ažurirani</string>
+    <string name="repairsTitle">Potrebni servisi</string>
+    <string name="newOwner">Ime</string>
+    <string name="newBrand">npr. Giant</string>
+    <string name="newName">npr. Rockrider</string>
+    <string name="newCategory">npr. MTB</string>
+    <string name="linkButton">Ažuriraj popravke bicikla</string>
+    <string name="linkSuccess">Servisi uspješno dodani!</string>
+
+    <string name="rp1">Zamjena sajle kočnice</string>
+    <string name="rp2">Ugradnja disk kočnica</string>
+    <string name="rp3">Zamjena sajle mjenjača</string>
+    <string name="rp4">Zamjena ležaja kotača</string>
+    <string name="rp5">Spajanje lanca</string>
+    <string name="rp6">Zamjena kazete ili kranca</string>
+    <string name="rp7">Ugradnja pogona</string>
+    <string name="rp8">Ugradnja vilice/stražnje suspenzije</string>
+    <string name="rp9">Podmazivanje i čišćenje headseta</string>
+    <string name="rp10">Centriranje kotača</string>
+    <string name="rp11">Podešavanje brzina (po mjenjaču)</string>
+    <string name="rp12">Veliki servis bicikla</string>
+    <string name="rp13">Nulti servis / montaža bicikla</string>
+    <string name="rp14">Zamjena okvira / preslagivanje bicikla</string>
+    <string name="rp15">Odzračivanje kočnice</string>
+
+</resources>

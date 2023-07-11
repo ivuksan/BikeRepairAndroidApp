@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509565695848",
+    "project_id": "bikerepair-fa419",
+    "storage_bucket": "bikerepair-fa419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509565695848:android:3c8caa50f97ae58fedc8dd",
+        "android_client_info": {
+          "package_name": "hr.ivuksan.android.bikerepair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509565695848-22i7m6371ft8kiomd2aejp3mct3jq4m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfd4a6Aqkck55jRqdCeqea3BanFVmr8BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509565695848-22i7m6371ft8kiomd2aejp3mct3jq4m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

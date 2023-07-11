@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="repairs">
+        <item>@string/rp1</item>
+        <item>@string/rp2</item>
+        <item>@string/rp3</item>
+        <item>@string/rp4</item>
+        <item>@string/rp5</item>
+        <item>@string/rp6</item>
+        <item>@string/rp7</item>
+        <item>@string/rp8</item>
+        <item>@string/rp9</item>
+        <item>@string/rp10</item>
+        <item>@string/rp11</item>
+        <item>@string/rp12</item>
+        <item>@string/rp13</item>
+        <item>@string/rp14</item>
+        <item>@string/rp15</item>
+    </string-array>
+</resources>

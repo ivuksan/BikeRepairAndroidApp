@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="loginLayout">
+        <item name="android:gravity">center</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">?android:attr/windowBackground</item>
+    </style>
+    <style name="loginTitle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:fontFamily">@font/nunito_sans_extrabold</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:layout_marginBottom">24dp</item>
+    </style>
+    <style name="loginEditText">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">8dp</item>
+        <item name="fontFamily">@font/nunito_sans_semibold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">@drawable/edittext_border</item>
+    </style>
+    <style name="actionBarTitle">
+        <item name="android:fontFamily">@font/nunito_sans_extrabold</item>
+        <item name="android:textColor">?android:attr/windowBackground</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:paddingStart">30dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="actionBarImage">
+        <item name="android:padding">18dp</item>
+        <item name="android:contentDescription">@string/addBicycle</item>
+        <item name="android:onClick">newBicycle</item>
+        <item name="android:tint">?android:attr/windowBackground</item>
+    </style>
+    <style name="bicycleDetailsLayout">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="bicycleDetailsDescription">
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:fontFamily">@font/nunito_sans_semibold</item>
+        <item name="android:textColor">?android:attr/textColor</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="bicycleDetailsValue">
+        <item name="android:fontFamily">@font/nunito_sans_semibold</item>
+        <item name="android:textColor">?android:attr/colorPrimary</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="repairsDetailsTitle">
+        <item name="android:textSize">23sp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:fontFamily">@font/nunito_sans_semibold</item>
+        <item name="android:textColor">?android:attr/textColor</item>
+        <item name="android:text">@string/repairsTitle</item>
+    </style>
+    <style name="insertInputs">
+        <item name="android:textColorHint">?android:attr/colorPrimary</item>
+        <item name="android:background">@drawable/edittext_border</item>
+        <item name="android:imeOptions">flagNoExtractUi</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/nunito_sans_semibold</item>
+    </style>
+</resources>

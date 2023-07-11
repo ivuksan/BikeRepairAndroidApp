@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BikeRepair" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryDark">@color/gray700</item>
+        <item name="colorAccent">@color/gray500</item>
+
+        <item name="android:textColorPrimary">@color/gray500</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:windowBackground">@color/black</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name" translatable="false">BikeRepair</string>
+    <string name="pass">Password</string>
+    <string name="login">Log in</string>
+    <string name="addBicycle">Add bicycle</string>
+    <string name="owner">Owner:</string>
+    <string name="brand">Brand:</string>
+    <string name="name">Name:</string>
+    <string name="category">Category:</string>
+    <string name="repairsDetails">Data is not updated</string>
+    <string name="repairsTitle">Necessary services</string>
+    <string name="newOwner">First name</string>
+    <string name="newBrand">e.g. Giant</string>
+    <string name="newName">e.g. Rockrider</string>
+    <string name="newCategory">e.g. MTB</string>
+    <string name="linkButton">Update bicycle repairs</string>
+    <string name="linkSuccess">Repairs successfully added!</string>
+
+    <string name="rp15">Venting brakes</string>
+    <string name="rp14">"Changing the frame / rearranging the bike</string>
+    <string name="rp13">First service / bike assembly</string>
+    <string name="rp12">Extensive service</string>
+    <string name="rp11">Gear adjustment (by gearbox)</string>
+    <string name="rp10">Wheel centering</string>
+    <string name="rp9">Lubricating and cleaning the headset</string>
+    <string name="rp8">Installing the fork/rear suspension</string>
+    <string name="rp7">Drive installation</string>
+    <string name="rp6">Replacing the cassette or crank</string>
+    <string name="rp5">Connecting the chain</string>
+    <string name="rp4">Wheel bearing replacement</string>
+    <string name="rp3">Replacing the transmission cable</string>
+    <string name="rp2">Installation of disc brakes</string>
+    <string name="rp1">Brake cable replacement</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="?colorPrimary">
+
+    <TextView
+        android:id="@+id/depth"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:text="@string/app_name"
+        style="@style/actionBarTitle"
+        android:paddingStart="60dp"
+        android:textSize="30sp"/>
+
+    <ImageView
+        android:id="@+id/new_bicycle"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:src="@drawable/plus_button"
+        style="@style/actionBarImage" />
+
+</LinearLayout>
